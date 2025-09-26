@@ -13,3 +13,6 @@ motor uchun "Brushless motor prop saver" <br>
 uzatuvchi (transmitter) men fly-sky ishlatganman <br>
 
 mashinani 3D modeli --->  https://cad.onshape.com/documents/fb640f83c8baeb830f8cd28a/w/51a9fae8b4f23d207e96d5fb/e/8aeb78c676eaf5d5e7259c3b?renderMode=0&uiState=658ed38c701d7665f33ae9e9
+
+
+TPU, PTEG, ABS, filamentlaridan foydalandim 
